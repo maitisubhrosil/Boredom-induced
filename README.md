@@ -2,4 +2,4 @@
 Random programs written in Python 3.
 
 
-<a href="http://livetrafficfeed.com" data-num="10" data-width="210" data-responsive="0" data-time="Asia%2FKolkata" data-root="0" data-cheader="2853a8" data-theader="ffffff" data-border="2853a8" data-background="ffffff" data-normal="000000" data-link="135d9e" target="_blank" id="LTF_live_website_visitor">Website Stats</a><script type="text/javascript" src="//cdn.livetrafficfeed.com/static/v4/live.js"></script><noscript><a href="http://livetrafficfeed.com">Website Stats</a></noscript>
+<center><a href="https://livetrafficfeed.com/ip-widget" data-type="2" data-time="Asia%2FKolkata" data-root="1" id="LTF_ip_href">IP Script</a><script type="text/javascript" src="//cdn.livetrafficfeed.com/static/ip-widget/live.v2.js"></script><noscript><a href="https://livetrafficfeed.com/ip-widget">IP Script</a></noscript></center>
