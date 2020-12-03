@@ -15,6 +15,24 @@ def pattern_a(size):
         line = (" "+star)+" "+(space*(size-4))+" "+(star)
         print line 
 
+def pattern_b(size):
+    star = "*"
+    space = " "
+    line = ""
+    start = 0
+    end = size
+    mid = end//2
+    inc = 0
+    print (star*(size-1))
+    for i in range(end/3):
+        line = (star)+(space*(size-2))+(star)
+        print line
+    print (star*(size-1))
+    for j in range(end/3):
+        line = (star)+(space*(size-2))+(star)
+        print line 
+    print (star*(size-1))
+
 def pattern_z(size):
     star = "*"
     space = " "
@@ -45,23 +63,6 @@ def pattern_h(size):
         line = (star)+(space*(size-2))+(star)
         print line 
 
-def pattern_b(size):
-    star = "*"
-    space = " "
-    line = ""
-    start = 0
-    end = size
-    mid = end//2
-    inc = 0
-    print (star*(size-1))
-    for i in range(end/3):
-        line = (star)+(space*(size-2))+(star)
-        print line
-    print (star*(size-1))
-    for j in range(end/3):
-        line = (star)+(space*(size-2))+(star)
-        print line 
-    print (star*(size-1))
 
 def pattern_r(size):
     star = "*"
